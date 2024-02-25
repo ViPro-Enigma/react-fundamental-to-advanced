@@ -1,0 +1,41 @@
+{
+  "wishlist-items": [
+    {
+      "id": "1",
+      "name": "Coding"
+    },
+    {
+      "id": "2",
+      "name": "Makan"
+    },
+    {
+      "id": "3",
+      "name": "Mandi"
+    },
+    {
+      "id": "ed00",
+      "name": "test"
+    },
+    {
+      "id": "62c4",
+      "name": "halo"
+    },
+    {
+      "id": "c463",
+      "name": "123"
+    },
+    {
+      "id": "72eb",
+      "name": "321"
+    },
+    {
+      "id": "8ef1",
+      "name": "hello"
+    },
+    {
+      "id": "be9d",
+      "name": "laptop"
+    }
+  ],
+  "users": []
+}
